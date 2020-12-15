@@ -1,0 +1,98 @@
+<!--
+  Copyright (C) 2020 The LineageOS Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+
+    <color name="primary_900">#871700</color>
+    <color name="primary_800">#a31e00</color>
+    <color name="primary_700">#bd2700</color>
+    <color name="primary_600">#d33000</color>
+    <color name="primary_500">#e44613</color>
+    <color name="primary_400">#ef6739</color>
+    <color name="primary_200">#fcc2ad</color>
+    <color name="primary_300">#f7916d</color>
+    <color name="primary_100">#fedccf</color>
+    <color name="primary_050">#fff5f2</color>
+
+    <color name="overlay_on_dark_medium_emphasis">#bdffffff</color>
+    <color name="overlay_on_dark_high_emphasis">#deffffff</color>
+    <color name="overlay_on_dark_disabled">#61ffffff</color>
+
+    <color name="overlay_on_light_high_emphasis">#de000000</color>
+    <color name="overlay_on_light_medium_emphasis">#99000000</color>
+    <color name="overlay_on_light_disabled">#61000000</color>
+
+    <color name="stroke_light">#1e000000</color>
+    <color name="stroke_dark">#1effffff</color>
+
+    <color name="wire_dark">#5c6666</color>
+    <color name="wire_med">#a1b2b2</color>
+    <color name="wire_white">#ffffff</color>
+    <color name="wire_light">#dae5e5</color>
+
+    <color name="mindfulness_100">#25b3c7</color>
+    <color name="mindfulness_87">#de25b3c7</color>
+    <color name="mindfulness_70">#b325b3c7</color>
+    <color name="mindfulness_54">#8a25b3c7</color>
+    <color name="mindfulness_50">#8025b3c7</color>
+    <color name="mindfulness_38">#6125b3c7</color>
+
+    <color name="heart_blood_100">#fb5252</color>
+    <color name="heart_blood_87">#defb5252</color>
+    <color name="heart_blood_70">#b3fb5252</color>
+    <color name="heart_blood_54">#8afb5252</color>
+    <color name="heart_blood_50">#80fb5252</color>
+    <color name="heart_blood_38">#61fb5252</color>
+
+    <color name="breathing_100">#01ab8c</color>
+    <color name="breathing_87">#de01ab8c</color>
+    <color name="breathing_70">#b301ab8c</color>
+    <color name="breathing_54">#8a01ab8c</color>
+    <color name="breathing_50">#8001ab8c</color>
+    <color name="breathing_38">#6101ab8c</color>
+
+    <color name="body_100">#7673f4</color>
+    <color name="body_87">#de7673f4</color>
+    <color name="body_70">#b37673f4</color>
+    <color name="body_54">#8a7673f4</color>
+    <color name="body_50">#807673f4</color>
+    <color name="body_38">#617673f4</color>
+
+    <color name="activity_100">#ff9e47</color>
+    <color name="activity_87">#deff9e47</color>
+    <color name="activity_70">#b3ff9e47</color>
+    <color name="activity_54">#8aff9e47</color>
+    <color name="activity_50">#80ff9e47</color>
+    <color name="activity_38">#61ff9e47</color>
+
+    <color name="dark_surface">#121212</color>
+    <color name="light_surface">#ffffff</color>
+
+    <color name="error">#b00020</color>
+
+    <color name="dark_elevation_01_dp">#121212</color>
+    <color name="dark_elevation_02_dp">#121212</color>
+    <color name="dark_elevation_03_dp">#121212</color>
+    <color name="dark_elevation_04_dp">#121212</color>
+    <color name="dark_elevation_06_dp">#121212</color>
+    <color name="dark_elevation_08_dp">#121212</color>
+    <color name="dark_elevation_12_dp">#121212</color>
+    <color name="dark_elevation_24_dp">#121212</color>
+    <color name="dark_elevation_16_dp">#121212</color>
+
+    <color name="dark_elevation_chips_highlight">#121212</color>
+
+    <color name="icon_base">#000</color>
+</resources>

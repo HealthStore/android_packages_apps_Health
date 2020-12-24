@@ -82,17 +82,8 @@
 
     <color name="error">#b00020</color>
 
-    <color name="dark_elevation_01_dp">#121212</color>
-    <color name="dark_elevation_02_dp">#121212</color>
-    <color name="dark_elevation_03_dp">#121212</color>
-    <color name="dark_elevation_04_dp">#121212</color>
-    <color name="dark_elevation_06_dp">#121212</color>
-    <color name="dark_elevation_08_dp">#121212</color>
-    <color name="dark_elevation_12_dp">#121212</color>
-    <color name="dark_elevation_24_dp">#121212</color>
-    <color name="dark_elevation_16_dp">#121212</color>
-
     <color name="dark_elevation_chips_highlight">#121212</color>
 
-    <color name="icon_base">#000</color>
+    <color name="icon_base_light">#000</color>
+    <color name="icon_base_dark">#fff</color>
 </resources>

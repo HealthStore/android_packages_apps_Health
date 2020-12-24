@@ -13,14 +13,13 @@
   See the License for the specific language governing permissions and
   limitations under the License.
   -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="24dp"
-    android:height="24dp"
-    android:viewportWidth="24"
-    android:viewportHeight="24">
-  <path
-      android:fillAlpha="0.6"
-      android:fillColor="?color_iconBase"
-      android:fillType="evenOdd"
-      android:pathData="M15,15l7,-7 -6,-6 -7,7H7l-2,2 1,1 2.293,2.293 -5,5c-0.39,0.39 -0.39,1.024 0,1.414 0.39,0.39 1.024,0.39 1.414,0l5,-5L12,18l1,1 2,-2v-2z" />
-</vector>
+<resources>
+
+    <!-- Theme attrs -->
+    <attr name="color_iconBase" type="color" />
+    <attr name="color_overlayMediumEmphasis" type="color" />
+    <attr name="color_overlayHighEmphasis" type="color" />
+    <attr name="color_overlayDisabled" type="color" />
+    <attr name="color_stroke" type="color" />
+    <attr name="color_surface" type="color" />
+</resources>

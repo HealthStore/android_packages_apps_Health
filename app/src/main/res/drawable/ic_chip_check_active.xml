@@ -20,7 +20,7 @@
     android:viewportHeight="24">
     <path
         android:fillAlpha="0.6"
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:pathData="M12,12m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
     <path
         android:fillAlpha="0.87"

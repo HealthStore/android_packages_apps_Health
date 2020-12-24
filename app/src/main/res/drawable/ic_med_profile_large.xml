@@ -21,6 +21,6 @@
   <path
       android:pathData="M14,3v5.536l4.794,-2.768 2,3.464L16,12l4.794,2.768 -2,3.464L14,15.464V21h-4v-5.536l-4.794,2.768 -2,-3.464L8,12 3.206,9.232l2,-3.464L10,8.536V3h4z"
       android:fillAlpha="0.6"
-      android:fillColor="@color/icon_base"
+      android:fillColor="?color_iconBase"
       android:fillType="evenOdd" />
 </vector>

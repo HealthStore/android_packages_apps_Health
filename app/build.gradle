@@ -19,14 +19,14 @@ apply plugin: 'kotlin-android'
 
 import org.lineageos.build.AndroidX
 import org.lineageos.build.Config
+import org.lineageos.build.Google
 import org.lineageos.build.Kotlin
-import org.lineageos.build.Libraries
 
 android {
     compileSdkVersion Config.compileSdk
 
     defaultConfig {
-        applicationId "org.lineageos.mod.health"
+        applicationId "org.lineageos.health"
 
         minSdkVersion Config.minSdk
         targetSdkVersion Config.targetSdk
@@ -65,6 +65,19 @@ android {
 
 dependencies {
     implementation Kotlin.StdLib.jvm
+    implementation Kotlin.Coroutines.android
+
+    implementation AndroidX.ktx
+    implementation AndroidX.appCompat
+    implementation AndroidX.constraintLayout
+    implementation AndroidX.fragment
+    implementation AndroidX.recyclerView
+
+    implementation AndroidX.Lifecycle.runtime
+    implementation AndroidX.Lifecycle.liveData
+    implementation AndroidX.Lifecycle.viewModel
+
+    implementation Google.Material.components
 
     androidTestImplementation AndroidX.Test.core
     androidTestImplementation AndroidX.Test.rules

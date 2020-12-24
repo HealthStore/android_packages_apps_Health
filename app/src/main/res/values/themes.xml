@@ -1,0 +1,46 @@
+<!--
+  Copyright (C) 2020 The LineageOS Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+
+    <style name="BaseTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="color_iconBase">@color/icon_base_light</item>
+        <item name="color_overlayMediumEmphasis">@color/overlay_on_light_high_emphasis</item>
+        <item name="color_overlayHighEmphasis">@color/overlay_on_light_medium_emphasis</item>
+        <item name="color_overlayDisabled">@color/overlay_on_light_disabled</item>
+        <item name="color_stroke">@color/stroke_light</item>
+        <item name="color_surface">@color/light_surface</item>
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme">
+        <item name="colorPrimary">@color/primary_500</item>
+        <item name="colorSecondary">@color/primary_500</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorSurface">?attr/color_surface</item>
+        <item name="textAppearanceHeadline1">@style/Headline1</item>
+        <item name="textAppearanceHeadline2">@style/Headline2</item>
+        <item name="textAppearanceHeadline3">@style/Headline3</item>
+        <item name="textAppearanceHeadline4">@style/Headline4</item>
+        <item name="textAppearanceHeadline5">@style/Headline5</item>
+        <item name="textAppearanceHeadline6">@style/Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/Subtitle2</item>
+        <item name="textAppearanceBody1">@style/Body1</item>
+        <item name="textAppearanceBody2">@style/Body2</item>
+        <item name="textAppearanceCaption">@style/Caption</item>
+        <item name="textAppearanceButton">@style/Button</item>
+        <item name="textAppearanceOverline">@style/Overline</item>
+    </style>
+</resources>

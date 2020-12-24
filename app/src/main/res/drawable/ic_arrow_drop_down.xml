@@ -20,7 +20,7 @@
     android:viewportHeight="24">
     <path
         android:fillAlpha="0.6"
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:fillType="evenOdd"
         android:pathData="M7,10l5,5 5,-5H7z" />
 </vector>

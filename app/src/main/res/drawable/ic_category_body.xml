@@ -20,18 +20,18 @@
     android:viewportHeight="24">
     <path
         android:fillAlpha="0.2"
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:fillType="evenOdd"
         android:pathData="M13,10v2.925c-0.618,0.357 -1.382,0.357 -2,0V10c0,-0.552 0.448,-1 1,-1s1,0.448 1,1z"
         android:strokeAlpha="0.2" />
     <path
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:pathData="M12.667,6C13.403,6 14,5.403 14,4.667V4c0,-1.105 -0.895,-2 -2,-2s-2,0.895 -2,2v0.667C10,5.403 10.597,6 11.333,6h1.334z" />
     <path
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:fillType="evenOdd"
         android:pathData="M15,13.795V10c0,-1.657 -1.343,-3 -3,-3s-3,1.343 -3,3v3.795l-2.92,6.811c-0.217,0.508 0.018,1.096 0.526,1.313 0.508,0.218 1.096,-0.018 1.313,-0.525l2.755,-6.427c0.857,0.301 1.795,0.301 2.652,0l2.755,6.427c0.217,0.508 0.805,0.743 1.313,0.525 0.508,-0.217 0.743,-0.805 0.525,-1.313L15,13.795zM13,10v2.925c-0.618,0.357 -1.382,0.357 -2,0V10c0,-0.552 0.448,-1 1,-1s1,0.448 1,1z" />
     <path
-        android:fillColor="@color/icon_base"
+        android:fillColor="?color_iconBase"
         android:pathData="M16,8c0,-0.552 0.448,-1 1,-1h4c0.552,0 1,0.448 1,1s-0.448,1 -1,1h-4c-0.552,0 -1,-0.448 -1,-1zM3,7c-0.552,0 -1,0.448 -1,1s0.448,1 1,1h4c0.552,0 1,-0.448 1,-1s-0.448,-1 -1,-1H3z" />
 </vector>

@@ -21,6 +21,7 @@ import org.lineageos.build.AndroidX
 import org.lineageos.build.Config
 import org.lineageos.build.Google
 import org.lineageos.build.Kotlin
+import org.lineageos.build.LineageOS
 
 android {
     compileSdkVersion Config.compileSdk
@@ -66,6 +67,8 @@ android {
 dependencies {
     implementation Kotlin.StdLib.jvm
     implementation Kotlin.Coroutines.android
+
+    implementation LineageOS.Mod.Health.sdk
 
     implementation AndroidX.ktx
     implementation AndroidX.appCompat

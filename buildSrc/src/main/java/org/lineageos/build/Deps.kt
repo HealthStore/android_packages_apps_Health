@@ -91,3 +91,15 @@ object Kotlin {
         const val android = "org.jetbrains.kotlinx:kotlinx-coroutines-android:$VERSION"
     }
 }
+
+object LineageOS {
+
+    object Mod {
+
+        object Health {
+            private const val VERSION = "1.0.0-alpha00"
+
+            const val sdk = "org.lineageos:mod.health-sdk:$VERSION"
+        }
+    }
+}
